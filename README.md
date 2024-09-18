@@ -25,6 +25,8 @@
         - OSCHINA：oschina.net
         - Gitee：gitee.com
         - 华为云：huaweicloud.com
+        - 腾讯云：cloud.tencent.com
+        - 阿里云：developer.aliyun.com
         - InsCode：inscode.csdn.net
     - 以上述网站名义在其他网络平台上开办的公共账号空间，包括但不限于微博、微信公众号、
       知乎、抖音、bilibili、小红书、百度百家号、今日头条、简书、YouTube、X（原Twitter）、GitLab、极狐等。
